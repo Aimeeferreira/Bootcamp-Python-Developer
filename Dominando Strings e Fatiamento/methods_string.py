@@ -1,17 +1,17 @@
 #Modifying strings with Upper, Lower, Title, Strip, LStrip, RStrip, Center and Join methods.
 
-nome = "AiMee"
+name = "AiMee"
 
-print(nome.upper())
-print(nome.lower())
-print(nome.title())
+print(name.upper())
+print(name.lower())
+print(name.title())
 
-texto = "  Hello World!    "
+text = "  Hello World!    "
 
-print(texto + ".")
-print(texto.strip() + ".")
-print(texto.rstrip() + ".")
-print(texto.lstrip() + ".")
+print(text + ".")
+print(text.strip() + ".")
+print(text.rstrip() + ".")
+print(text.lstrip() + ".")
 
 menu = "Python"
 
