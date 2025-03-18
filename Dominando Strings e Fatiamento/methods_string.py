@@ -1,4 +1,4 @@
-#Modifying strings with Upper, Lower, Title, Strip, LStrip, RStrip, Center and Join commands.
+#Modifying strings with Upper, Lower, Title, Strip, LStrip, RStrip, Center and Join methods.
 
 nome = "AiMee"
 
